@@ -2,6 +2,12 @@
 
 This is a simple implementation of the classic 2D ping pong game built with Python and Pygame.
 
+## Screenshot
+
+Below is a screenshot of the Ping Pong game:
+
+<img src="images/ping_pong_screenshot.png" alt="Ping Pong Game Screenshot" width="600">
+
 ## Requirements
 
 - Python 3.x
